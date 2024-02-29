@@ -19,7 +19,7 @@
     }
   },
   {
-    "id": "KNY-002",
+    "id": "2",
     "name": "Kwame Nkrumah",
     "description": "De eerste president van het onafhankelijke Ghana en een pleitbezorger van pan-Afrikanisme.",
     "age": 62,
@@ -38,7 +38,7 @@
     }
   },
   {
-    "id": "HSL-003",
+    "id": "3",
     "name": "Haile Selassie",
     "description": "De voormalige keizer van Ethiopië en een sleutelfiguur in de oprichting van de Organisatie van Afrikaanse Eenheid (OAE).",
     "age": 127,
@@ -57,7 +57,7 @@
     }
   },
   {
-    "id": "JKY-004",
+    "id": "4",
     "name": "Jomo Kenyatta",
     "description": "De eerste president van Kenia en een belangrijke figuur in de strijd voor de onafhankelijkheid van het land.",
     "age": 80,
@@ -76,7 +76,7 @@
     }
   },
   {
-    "id": "EJS-005",
+    "id": "5",
     "name": "Ellen Johnson Sirleaf",
     "description": "De eerste vrouwelijke president van een Afrikaans land en winnaar van de Nobelprijs voor de Vrede.",
     "age": 87,
@@ -95,7 +95,7 @@
     }
   },
   {
-    "id": "PLM-006",
+    "id": "6",
     "name": "Patrice Lumumba",
     "description": "Een leider in de strijd voor de onafhankelijkheid van Congo, de eerste democratisch verkozen premier van het land.",
     "age": 35,
@@ -114,7 +114,7 @@
     }
   },
   {
-    "id": "TMK-007",
+    "id": "7",
     "name": "Thabo Mbeki",
     "description": "De opvolger van Nelson Mandela als president van Zuid-Afrika en een belangrijke figuur in de diplomatie en economische ontwikkeling.",
     "age": 79,
@@ -133,7 +133,7 @@
     }
   },
   {
-    "id": "ADI-008",
+    "id": "8",
     "name": "Abdou Diouf",
     "description": "Voormalig president van Senegal en secretaris-generaal van de Organisatie van de Francofonie.",
     "age": 86,
@@ -152,7 +152,7 @@
     }
   },
   {
-    "id": "JNY-009",
+    "id": "9",
     "name": "Julius Nyerere",
     "description": "De eerste president van Tanzania en een voorstander van het Afrikaanse socialisme en zelfredzaamheid.",
     "age": 77,
@@ -171,7 +171,7 @@
     }
   },
   {
-    "id": "MGF-010",
+    "id": "10",
     "name": "Muammar Gaddafi",
     "description": "De voormalige leider van Libië, die een belangrijke rol speelde in pan-Afrikaanse politiek en de oprichting van de Afrikaanse Unie (AU).",
     "age": 78,
