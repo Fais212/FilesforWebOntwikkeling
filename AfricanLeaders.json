@@ -1,6 +1,6 @@
 [
   {
-    "id": "NML-001",
+    "id": "1",
     "name": "Nelson Mandela",
     "description": "Een icoon van de anti-apartheidsbeweging, de eerste zwarte president van Zuid-Afrika en een internationaal symbool van verzoening.",
     "age": 95,
@@ -13,8 +13,7 @@
     "guildAffiliation": {
       "id": "AFR-001",
       "name": "Union of Unity",
-      "guildMaster": "Harmony Keeper",
-      "guildEmblemUrl": "https://example.com/images/guilds/unity-union-emblem.jpg",
+      "group": "Harmony Keeper",
       "foundedYear": 1994,
       "motto": "Unity in Diversity"
     }
@@ -30,11 +29,10 @@
     "rarity": "Epic",
     "abilities": ["Pan-African Advocacy", "Independence Leadership", "Nation Building"],
     "element": "Unity",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-002",
       "name": "Pan-African Alliance",
-      "guildMaster": "Unity Advocate",
-      "guildEmblemUrl": "https://example.com/images/guilds/pan-african-alliance-emblem.jpg",
+      "group": "Unity Advocate",
       "foundedYear": 1957,
       "motto": "One Africa, One Destiny"
     }
@@ -50,11 +48,10 @@
     "rarity": "Legendary",
     "abilities": ["Pan-African Diplomacy", "Advocate for Unity", "Anti-Colonial Leadership"],
     "element": "Empire",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-003",
       "name": "League of African Nations",
-      "guildMaster": "Unity Ambassador",
-      "guildEmblemUrl": "https://example.com/images/guilds/african-nations-league-emblem.jpg",
+      "group": "Unity Ambassador",
       "foundedYear": 1963,
       "motto": "United for Progress"
     }
@@ -70,11 +67,10 @@
     "rarity": "Epic",
     "abilities": ["Independence Leadership", "Nation Building", "Anti-Colonial Advocacy"],
     "element": "Freedom",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-004",
       "name": "Kenyan Freedom Fighters",
-      "guildMaster": "Independence Champion",
-      "guildEmblemUrl": "https://example.com/images/guilds/kenyan-freedom-fighters-emblem.jpg",
+      "group": "Independence Champion",
       "foundedYear": 1963,
       "motto": "Freedom for All"
     }
@@ -90,11 +86,10 @@
     "rarity": "Legendary",
     "abilities": ["Trailblazing Leadership", "Peaceful Governance", "Women's Empowerment"],
     "element": "Harmony",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-005",
       "name": "Liberian Peacekeepers",
-      "guildMaster": "Peace Guardian",
-      "guildEmblemUrl": "https://example.com/images/guilds/liberian-peacekeepers-emblem.jpg",
+      "group": "Peace Guardian",
       "foundedYear": 2006,
       "motto": "Peaceful Progress"
     }
@@ -110,11 +105,10 @@
     "rarity": "Epic",
     "abilities": ["Independence Advocacy", "Democratic Leadership", "Anti-Colonial Struggle"],
     "element": "Freedom",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-006",
       "name": "Congo Liberation Front",
-      "guildMaster": "Freedom Fighter",
-      "guildEmblemUrl": "https://example.com/images/guilds/congo-liberation-front-emblem.jpg",
+      "group": "Freedom Fighter",
       "foundedYear": 1960,
       "motto": "Freedom for Congo"
     }
@@ -130,11 +124,10 @@
     "rarity": "Legendary",
     "abilities": ["Diplomatic Leadership", "Economic Development", "Pan-African Cooperation"],
     "element": "Unity",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-007",
       "name": "African Diplomats Union",
-      "guildMaster": "Diplomacy Maestro",
-      "guildEmblemUrl": "https://example.com/images/guilds/african-diplomats-union-emblem.jpg",
+      "group": "Diplomacy Maestro",
       "foundedYear": 1999,
       "motto": "Diplomacy for Progress"
     }
@@ -150,11 +143,10 @@
     "rarity": "Epic",
     "abilities": ["Political Leadership", "Francophone Diplomacy", "Economic Reform"],
     "element": "Wisdom",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-008",
       "name": "Senegalese Statesmen",
       "guildMaster": "Statesmanship Mentor",
-      "guildEmblemUrl": "https://example.com/images/guilds/senegalese-statesmen-emblem.jpg",
       "foundedYear": 1981,
       "motto": "Leadership for Progress"
     }
@@ -170,11 +162,10 @@
     "rarity": "Legendary",
     "abilities": ["Socialist Leadership", "Self-Reliance Advocacy", "Education Promotion"],
     "element": "Progress",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-009",
       "name": "Tanzanian Progressives",
       "guildMaster": "Progress Champion",
-      "guildEmblemUrl": "https://example.com/images/guilds/tanzanian-progressives-emblem.jpg",
       "foundedYear": 1964,
       "motto": "Progress for Tanzania"
     }
@@ -190,11 +181,10 @@
     "rarity": "Epic",
     "abilities": ["Pan-African Advocacy", "Political Visionary", "Economic Development"],
     "element": "Revolution",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-010",
       "name": "African Visionaries Coalition",
-      "guildMaster": "Revolutionary Visionary",
-      "guildEmblemUrl": "https://example.com/images/guilds/african-visionaries-coalition-emblem.jpg",
+      "group": "Revolutionary Visionary",
       "foundedYear": 2001,
       "motto": "Visionaries for Africa"
     }
