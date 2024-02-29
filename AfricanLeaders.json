@@ -6,7 +6,7 @@
     "age": 95,
     "isActive": false,
     "birthDate": "1918-07-18",
-    "imageUrl": "https://example.com/images/nelson-mandela.jpg",
+    "imageUrl": "https://github.com/Fais212/FilesforWebOntwikkeling/blob/main/Nelson_Mandela_1994.jpg?raw=true",
     "rarity": "Legendary",
     "abilities": ["Anti-Apartheid Leadership", "Reconciliation Mastery", "Nation Building"],
     "element": "Peace",
