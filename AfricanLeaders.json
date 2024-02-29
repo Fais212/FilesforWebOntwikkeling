@@ -177,7 +177,7 @@
     "age": 78,
     "isActive": false,
     "birthDate": "1942-06-07",
-    "imageUrl": "https://example.com/images/muammar-gaddafi.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Fais212/FilesforWebOntwikkeling/main/Moamer_el_Gadafi_(cropped).jpg",
     "rarity": "Epic",
     "abilities": ["Pan-African Advocacy", "Political Visionary", "Economic Development"],
     "element": "Revolution",
