@@ -1,0 +1,202 @@
+[
+  {
+    "id": "NML-001",
+    "name": "Nelson Mandela",
+    "description": "Een icoon van de anti-apartheidsbeweging, de eerste zwarte president van Zuid-Afrika en een internationaal symbool van verzoening.",
+    "age": 95,
+    "isActive": false,
+    "birthDate": "1918-07-18",
+    "imageUrl": "https://example.com/images/nelson-mandela.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Anti-Apartheid Leadership", "Reconciliation Mastery", "Nation Building"],
+    "element": "Peace",
+    "guildAffiliation": {
+      "id": "AFR-001",
+      "name": "Union of Unity",
+      "guildMaster": "Harmony Keeper",
+      "guildEmblemUrl": "https://example.com/images/guilds/unity-union-emblem.jpg",
+      "foundedYear": 1994,
+      "motto": "Unity in Diversity"
+    }
+  },
+  {
+    "id": "KNY-002",
+    "name": "Kwame Nkrumah",
+    "description": "De eerste president van het onafhankelijke Ghana en een pleitbezorger van pan-Afrikanisme.",
+    "age": 62,
+    "isActive": false,
+    "birthDate": "1909-09-21",
+    "imageUrl": "https://example.com/images/kwame-nkrumah.jpg",
+    "rarity": "Epic",
+    "abilities": ["Pan-African Advocacy", "Independence Leadership", "Nation Building"],
+    "element": "Unity",
+    "guildAffiliation": {
+      "id": "AFR-002",
+      "name": "Pan-African Alliance",
+      "guildMaster": "Unity Advocate",
+      "guildEmblemUrl": "https://example.com/images/guilds/pan-african-alliance-emblem.jpg",
+      "foundedYear": 1957,
+      "motto": "One Africa, One Destiny"
+    }
+  },
+  {
+    "id": "HSL-003",
+    "name": "Haile Selassie",
+    "description": "De voormalige keizer van Ethiopië en een sleutelfiguur in de oprichting van de Organisatie van Afrikaanse Eenheid (OAE).",
+    "age": 127,
+    "isActive": false,
+    "birthDate": "1892-07-23",
+    "imageUrl": "https://example.com/images/haile-selassie.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Pan-African Diplomacy", "Advocate for Unity", "Anti-Colonial Leadership"],
+    "element": "Empire",
+    "guildAffiliation": {
+      "id": "AFR-003",
+      "name": "League of African Nations",
+      "guildMaster": "Unity Ambassador",
+      "guildEmblemUrl": "https://example.com/images/guilds/african-nations-league-emblem.jpg",
+      "foundedYear": 1963,
+      "motto": "United for Progress"
+    }
+  },
+  {
+    "id": "JKY-004",
+    "name": "Jomo Kenyatta",
+    "description": "De eerste president van Kenia en een belangrijke figuur in de strijd voor de onafhankelijkheid van het land.",
+    "age": 80,
+    "isActive": false,
+    "birthDate": "1897-10-20",
+    "imageUrl": "https://example.com/images/jomo-kenyatta.jpg",
+    "rarity": "Epic",
+    "abilities": ["Independence Leadership", "Nation Building", "Anti-Colonial Advocacy"],
+    "element": "Freedom",
+    "guildAffiliation": {
+      "id": "AFR-004",
+      "name": "Kenyan Freedom Fighters",
+      "guildMaster": "Independence Champion",
+      "guildEmblemUrl": "https://example.com/images/guilds/kenyan-freedom-fighters-emblem.jpg",
+      "foundedYear": 1963,
+      "motto": "Freedom for All"
+    }
+  },
+  {
+    "id": "EJS-005",
+    "name": "Ellen Johnson Sirleaf",
+    "description": "De eerste vrouwelijke president van een Afrikaans land en winnaar van de Nobelprijs voor de Vrede.",
+    "age": 87,
+    "isActive": false,
+    "birthDate": "1938-10-29",
+    "imageUrl": "https://example.com/images/ellen-johnson-sirleaf.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Trailblazing Leadership", "Peaceful Governance", "Women's Empowerment"],
+    "element": "Harmony",
+    "guildAffiliation": {
+      "id": "AFR-005",
+      "name": "Liberian Peacekeepers",
+      "guildMaster": "Peace Guardian",
+      "guildEmblemUrl": "https://example.com/images/guilds/liberian-peacekeepers-emblem.jpg",
+      "foundedYear": 2006,
+      "motto": "Peaceful Progress"
+    }
+  },
+  {
+    "id": "PLM-006",
+    "name": "Patrice Lumumba",
+    "description": "Een leider in de strijd voor de onafhankelijkheid van Congo, de eerste democratisch verkozen premier van het land.",
+    "age": 35,
+    "isActive": false,
+    "birthDate": "1925-07-02",
+    "imageUrl": "https://example.com/images/patrice-lumumba.jpg",
+    "rarity": "Epic",
+    "abilities": ["Independence Advocacy", "Democratic Leadership", "Anti-Colonial Struggle"],
+    "element": "Freedom",
+    "guildAffiliation": {
+      "id": "AFR-006",
+      "name": "Congo Liberation Front",
+      "guildMaster": "Freedom Fighter",
+      "guildEmblemUrl": "https://example.com/images/guilds/congo-liberation-front-emblem.jpg",
+      "foundedYear": 1960,
+      "motto": "Freedom for Congo"
+    }
+  },
+  {
+    "id": "TMK-007",
+    "name": "Thabo Mbeki",
+    "description": "De opvolger van Nelson Mandela als president van Zuid-Afrika en een belangrijke figuur in de diplomatie en economische ontwikkeling.",
+    "age": 79,
+    "isActive": false,
+    "birthDate": "1942-06-18",
+    "imageUrl": "https://example.com/images/thabo-mbeki.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Diplomatic Leadership", "Economic Development", "Pan-African Cooperation"],
+    "element": "Unity",
+    "guildAffiliation": {
+      "id": "AFR-007",
+      "name": "African Diplomats Union",
+      "guildMaster": "Diplomacy Maestro",
+      "guildEmblemUrl": "https://example.com/images/guilds/african-diplomats-union-emblem.jpg",
+      "foundedYear": 1999,
+      "motto": "Diplomacy for Progress"
+    }
+  },
+  {
+    "id": "ADI-008",
+    "name": "Abdou Diouf",
+    "description": "Voormalig president van Senegal en secretaris-generaal van de Organisatie van de Francofonie.",
+    "age": 86,
+    "isActive": false,
+    "birthDate": "1935-09-07",
+    "imageUrl": "https://example.com/images/abdou-diouf.jpg",
+    "rarity": "Epic",
+    "abilities": ["Political Leadership", "Francophone Diplomacy", "Economic Reform"],
+    "element": "Wisdom",
+    "guildAffiliation": {
+      "id": "AFR-008",
+      "name": "Senegalese Statesmen",
+      "guildMaster": "Statesmanship Mentor",
+      "guildEmblemUrl": "https://example.com/images/guilds/senegalese-statesmen-emblem.jpg",
+      "foundedYear": 1981,
+      "motto": "Leadership for Progress"
+    }
+  },
+  {
+    "id": "JNY-009",
+    "name": "Julius Nyerere",
+    "description": "De eerste president van Tanzania en een voorstander van het Afrikaanse socialisme en zelfredzaamheid.",
+    "age": 77,
+    "isActive": false,
+    "birthDate": "1922-04-13",
+    "imageUrl": "https://example.com/images/julius-nyerere.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Socialist Leadership", "Self-Reliance Advocacy", "Education Promotion"],
+    "element": "Progress",
+    "guildAffiliation": {
+      "id": "AFR-009",
+      "name": "Tanzanian Progressives",
+      "guildMaster": "Progress Champion",
+      "guildEmblemUrl": "https://example.com/images/guilds/tanzanian-progressives-emblem.jpg",
+      "foundedYear": 1964,
+      "motto": "Progress for Tanzania"
+    }
+  },
+  {
+    "id": "MGF-010",
+    "name": "Muammar Gaddafi",
+    "description": "De voormalige leider van Libië, die een belangrijke rol speelde in pan-Afrikaanse politiek en de oprichting van de Afrikaanse Unie (AU).",
+    "age": 78,
+    "isActive": false,
+    "birthDate": "1942-06-07",
+    "imageUrl": "https://example.com/images/muammar-gaddafi.jpg",
+    "rarity": "Epic",
+    "abilities": ["Pan-African Advocacy", "Political Visionary", "Economic Development"],
+    "element": "Revolution",
+    "guildAffiliation": {
+      "id": "AFR-010",
+      "name": "African Visionaries Coalition",
+      "guildMaster": "Revolutionary Visionary",
+      "guildEmblemUrl": "https://example.com/images/guilds/african-visionaries-coalition-emblem.jpg",
+      "foundedYear": 2001,
+      "motto": "Visionaries for Africa"
+    }
+  }
+]
