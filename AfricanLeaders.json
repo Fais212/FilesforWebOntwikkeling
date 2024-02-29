@@ -10,7 +10,7 @@
     "rarity": "Legendary",
     "abilities": ["Anti-Apartheid Leadership", "Reconciliation Mastery", "Nation Building"],
     "element": "Peace",
-    "guildAffiliation": {
+    "groupning": {
       "id": "AFR-001",
       "name": "Union of Unity",
       "group": "Harmony Keeper",
